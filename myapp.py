@@ -4,7 +4,7 @@ from PIL import Image
 import io
 import requests
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="sk.......")
 
 st.title('MyGPT')
 
